@@ -8,4 +8,7 @@ research section contains suggestions of how to use the contents of this
 report for a medical domain adaptation task involving SRL.
 
 This repository contains the following files:
-- 
+- Report_A_challenge_set.pdf: the report accomanoying this project
+- sharona_badloe_CheckList_SRL.ipynb: the notebook containing all code for this project
+- challenge_set.json: the challenge dataset in .json format
+- test_results.json: the test results in .json format, categorized by Passed or Failed
